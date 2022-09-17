@@ -1,0 +1,10 @@
+/cs/home/stu/lambe3ja/NetSecProject/rust-messenger/simple-messenger/client/target/debug/deps/version_check-743c00d15dd91a7c.rmeta: /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/cs/home/stu/lambe3ja/NetSecProject/rust-messenger/simple-messenger/client/target/debug/deps/libversion_check-743c00d15dd91a7c.rlib: /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/cs/home/stu/lambe3ja/NetSecProject/rust-messenger/simple-messenger/client/target/debug/deps/version_check-743c00d15dd91a7c.d: /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs /cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs
+
+/cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/lib.rs:
+/cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/version.rs:
+/cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/channel.rs:
+/cs/home/stu/lambe3ja/.cargo/registry/src/github.com-1ecc6299db9ec823/version_check-0.9.4/src/date.rs:
